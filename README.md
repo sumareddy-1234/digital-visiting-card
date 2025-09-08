@@ -14,13 +14,6 @@ This card serves as a quick and interactive snapshot of who I am — my backgrou
 
 ---
 
-## 🔗 Live Preview
-
-👉 [Click here to view the live card](https://github.com/sumareddy-1234/digital-visiting-card/blob/main/visiting-card.html)  
-*(Hosted on GitHub Pages)*
-
----
-
 ## 💼 Features
 
 - 🎨 Clean and modern UI design
